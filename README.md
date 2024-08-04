@@ -2,11 +2,11 @@
 
 This project is a simple landing page using HTML and CSS as part of The Odin Project foundations curriculm. 
 
-The first steps taken were to develop the main foundation of the page using HTML. The page consists of five sections - hero, call to action, information, quote, and footer. 
+This page uses of HTML and CSS code. The page consists of five sections - hero, call to action, information, quote, and footer. 
 
-A diagram (using draw.io) was created to outline the different sections the wesbite will contain. This will help with visualizing containers and items when using flex to format the site in the CSS stylesheet. 
+A diagram named top_project1.png (using draw.io) was created to outline the different sections the wesbite will contain. This will help with visualizing containers and items when using flex to format the site in the CSS stylesheet. 
 
-Created a CSS stylesheet to format and stylize the site. Flex is a large component of the site.
+The CSS stylesheet uses flex functions to provide structure to the website.
 
 
 
